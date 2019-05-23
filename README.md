@@ -1,2 +1,3 @@
 # paudeville
-Building a website for a podcast
+Building a website for a podcast.
+
